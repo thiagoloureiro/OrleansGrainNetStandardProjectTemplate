@@ -1,0 +1,2 @@
+# OrleansGrainNetStandardProjectTemplate
+OrleansGrain.NetStandard.ProjectTemplate
